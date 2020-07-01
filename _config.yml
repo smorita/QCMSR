@@ -1,6 +1,4 @@
-#theme: jekyll-theme-minimal
-# Site Settings
-locale                   : "ja"
-title                    : "Quantum Computational Materials Science Roundtable"
-
 theme: jekyll-theme-cayman
+title: "Quantum Computational Materials Science Roundtable"
+repository: "shinaoka/QCMSR"
+lang: "ja"
